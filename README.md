@@ -1,6 +1,11 @@
-Js Hello World Demo
-===================
+JavaScript XHR Send Json Body Demo
+==================================
 
-Open `index.html` in your browser.
+```
+npm install
+npm run demo
+```
 
-You will see "Hello, JS!" on the page.
+Then open <http://localhost:3000>
+
+![demo](./images/demo.jpg)
