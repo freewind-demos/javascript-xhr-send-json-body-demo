@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "demo": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.16.3"
-  }
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
 }
